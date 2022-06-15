@@ -49,6 +49,12 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+# MSPresets
+Content/MSPresets/
+Content/MSPresets/*
+
+Content/MarketPlace/*
+
 # Builds
 Build/*
 
